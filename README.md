@@ -11,7 +11,7 @@
 
 # Contents
 
-- [Core](#Core sites)
+- [Core](#Core)
 - [Books](#Books)
 - [Courses](#Courses)
 - [Articles](#Articles)
@@ -23,11 +23,11 @@
 
 - [How to contribute to this repository?](#Contribute)
 
-# Core sites
+# Core
 
 - [ThreeJS official website](https://threejs.org/)
 - [ThreeJS examples](https://threejs.org/examples/#webgl_animation_keyframes)
-- [ThreeJS documentation EN](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+- [ThreeJS documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 # Books
 
@@ -63,7 +63,7 @@
 
 ## 3D Theory
 
-- [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/)
+- [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/): A very comprehensive article on homogeneous coordinates and projective geometry (To finally understand what is the 4th coordinate (w) in your vertex shaders)
 
 ## Tutorials
 
