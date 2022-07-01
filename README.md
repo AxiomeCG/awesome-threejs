@@ -63,7 +63,7 @@
 
 ## 3D Theory
 
-- [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/)
+- [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/): A very comprehensive article on homogeneous coordinates and projective geometry (To finally understand what is the 4th coordinate (w) in your vertex shaders)
 
 ## Tutorials
 
