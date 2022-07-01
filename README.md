@@ -1,8 +1,13 @@
-<img src="assets/awesome-threejs-logo.png" alt="logo"/>
+<div align="center">
+    <br>
+    <img src="assets/awesome-threejs-logo.png" alt="logo" width="80%"/>
+    <h1>Awesome Threejs</h1>
+    <p>
+		<b>3️⃣ A curated list of awesome ThreeJS resources</b>
+	</p>
+</div>
 
-# Awesome Threejs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> 3️⃣ A curated list of awesome ThreeJS resources
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contribute
 
