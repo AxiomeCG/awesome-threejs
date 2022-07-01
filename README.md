@@ -27,7 +27,7 @@
 
 - [ThreeJS official website](https://threejs.org/)
 - [ThreeJS examples](https://threejs.org/examples/#webgl_animation_keyframes)
-- [ThreeJS documentation EN](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+- [ThreeJS documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
 # Books
 
