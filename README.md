@@ -162,3 +162,16 @@
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+# Related Lists
+
+- [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - A curated list of awesome GLSL resources.
+- [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and
+  much more.
+- [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and
+  resources.
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer
+  vision resources.
+- [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+- [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+- [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
