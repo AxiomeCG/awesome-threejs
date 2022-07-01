@@ -11,7 +11,7 @@
 
 # Contents
 
-- [Core](#Core sites)
+- [Core](#Core)
 - [Books](#Books)
 - [Courses](#Courses)
 - [Articles](#Articles)
@@ -23,7 +23,7 @@
 
 - [How to contribute to this repository?](#Contribute)
 
-# Core sites
+# Core
 
 - [ThreeJS official website](https://threejs.org/)
 - [ThreeJS examples](https://threejs.org/examples/#webgl_animation_keyframes)
