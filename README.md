@@ -195,6 +195,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
   much more.
 - [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and
   resources.
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - A carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer
   vision resources.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
