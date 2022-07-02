@@ -74,6 +74,8 @@
 - [Tutorial on Matrices](http://www.opengl-tutorial.org/fr/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
   to understand shader projection, view and model matrices (visually impactful)
 
+## Generative Art
+- [generative artistry tutorials](https://generativeartistry.com/tutorials/) by [@rumyra](https://github.com/rumyra) & [@tholman](https://github.com/tholman)
 # Inspiration
 
 ## Common
