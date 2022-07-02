@@ -1,7 +1,7 @@
 <div align="center">
     <br>
     <img src="assets/awesome-threejs-logo.png" alt="logo" width="80%"/>
-    <h1>Awesome Threejs <a src="https://awesome.re"> <img src="https://awesome.re/badge.svg" alt="Awesome badge"/></a></h1>
+    <h1>Awesome Threejs <a href="https://awesome.re", '_self');> <img src="https://awesome.re/badge.svg" alt="Awesome badge"/></a></h1>
     <p>
 		<b>3️⃣ A curated list of awesome ThreeJS resources</b>
     </p>
