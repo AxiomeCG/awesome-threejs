@@ -15,6 +15,7 @@
 - [Books](#Books)
 - [Courses](#Courses)
 - [Articles](#Articles)
+- [Videos](#Videos)
 - [Inspiration](#Inspiration)
 - [Resources](#Resources)
 - [Tools](#Tools)
@@ -75,7 +76,10 @@
   to understand shader projection, view and model matrices (visually impactful)
 
 ## Generative Art
+
 - [generative artistry tutorials](https://generativeartistry.com/tutorials/): Really awesome evolutive tutorial to acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra) & [@tholman](https://github.com/tholman)
+
+
 # Inspiration
 
 ## Common
@@ -86,6 +90,12 @@
 ## Shaders
 
 - [ShaderToy](https://www.shadertoy.com/): Prepare to be blown away by this shader sharing platform.
+
+# Videos
+
+## Shaders
+
+- [ShaderShop videos](http://tobyschachman.com/Shadershop/): Some awesome videos about ShaderShop and more. by [mandy3284](https://twitter.com/mandy3284)
 
 # Resources
 
@@ -133,6 +143,7 @@
 
 ## Shaders
 - [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL by [@iquilezles](https://twitter.com/iquilezles)
+- [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping signals, by drag and dropping patterns. (Mindblowingly awesome) by [mandy3284](https://twitter.com/mandy3284)
 
 ## Sandbox
 
