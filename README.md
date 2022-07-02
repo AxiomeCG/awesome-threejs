@@ -34,7 +34,7 @@
 ## 3D Theory
 
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html): A must-read book to be
-  comfortable with 3D maths.
+  comfortable with 3D maths. by [@ZPostFacto](https://twitter.com/ZPostFacto) & [@Ian-Parberry](https://github.com/Ian-Parberry)
 
 ## ThreeJS
 
@@ -46,12 +46,12 @@
 ## ThreeJS
 
 - [ThreeJS Journey](https://threejs-journey.com/): A great course accessible for the most beginner programmer who
-  wants to learn how to make ThreeJS 3D experiences from scratch.
+  wants to learn how to make ThreeJS 3D experiences from scratch. by [@bruno_simon](https://twitter.com/bruno_simon)
 
 ## Shaders
 
-- [The Easiest Way to Learn GLSL](https://simondev.teachable.com/p/glsl-shaders-from-scratch)
-- [The Book of Shaders](https://thebookofshaders.com/): A reference on the road to master shaders. And it's free.
+- [The Easiest Way to Learn GLSL](https://simondev.teachable.com/p/glsl-shaders-from-scratch) by [@iced_coffee_dev](https://twitter.com/iced_coffee_dev)
+- [The Book of Shaders](https://thebookofshaders.com/): A reference on the road to master shaders. And it's free. by [@patriciogv](https://twitter.com/patriciogv)
 
 # Articles
 
@@ -103,6 +103,8 @@
 
 ## GLSL Shaders
 
+- [Signal shaping functions](https://iquilezles.org/articles/functions/): A useful set of signal shaping patterns (to convert into GLSL) by [@iquilezles](https://twitter.com/iquilezles)
+- [Shaping functions](http://www.flong.com/archive/texts/code/): Awesome set of shaping functions for shaders by [@golan](https://twitter.com/golan)
 - [GLSL Noises](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83): Noises coded by others so you
   can use them directly in your shaders for cool effects (included: Perlin noises)
 
@@ -124,7 +126,7 @@
 ## Cube Texture
 
 - [HDRI-to-CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/): A tool to convert your HDRI file into a Cube map that
-  can be load as a CubeTexture in ThreeJS
+  can be load as a CubeTexture in ThreeJS. by [@matheowis](https://github.com/matheowis)
 
 ## Sandbox
 
