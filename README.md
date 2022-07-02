@@ -119,7 +119,7 @@
   can be used to learn (no commercial usage)
 - [Spline](https://spline.design/): A promising tool for 3D modeling, collaboratively.
 
-## Textures
+## Materials
 
 - [Adobe Substance3D Suite](https://www.adobe.com/fr/products/substance3d/3d-augmented-reality.html)
 
