@@ -165,6 +165,7 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for React by [@pmndrs](https://github.com/pmndrs)
 - [angular-three](https://github.com/nartc/angular-three): Declarative ThreeJS inspired by r3f for the Angular ecosystem by [@nartc](https://github.com/nartc)
 - [trois](https://github.com/troisjs/trois): The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
+- [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte by [@Rich-Harris](https://github.com/Rich-Harris)
 
 ## Physics
 
