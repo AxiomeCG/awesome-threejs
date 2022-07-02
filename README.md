@@ -105,7 +105,7 @@
 
 - [Signal shaping functions](https://iquilezles.org/articles/functions/): A useful set of signal shaping patterns (to convert into GLSL) by [@iquilezles](https://twitter.com/iquilezles)
 - [Shaping functions](http://www.flong.com/archive/texts/code/): Awesome set of shaping functions for shaders by [@golan](https://twitter.com/golan)
-- [Cheat sheet on curves(https://www.flickr.com/photos/kynd/9546075099/): A quick reminder on how to make some signal patterns by [@kyndinfo](https://twitter.com/kyndinfo)
+- [Cheat sheet on curves](https://www.flickr.com/photos/kynd/9546075099/): A quick reminder on how to make some signal patterns by [@kyndinfo](https://twitter.com/kyndinfo)
 - [GLSL Noises](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83): Noises coded by others so you
   can use them directly in your shaders for cool effects (included: Perlin noises)
 
