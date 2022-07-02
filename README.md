@@ -95,7 +95,7 @@
 
 ## Shaders
 
-- [ShaderShop videos](http://tobyschachman.com/Shadershop/): Some awesome videos about ShaderShop and more. by [mandy3284](https://twitter.com/mandy3284)
+- [ShaderShop videos](http://tobyschachman.com/Shadershop/): Some awesome videos about ShaderShop and more. by [@mandy3284](https://twitter.com/mandy3284)
 
 # Resources
 
@@ -143,7 +143,7 @@
 
 ## Shaders
 - [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL by [@iquilezles](https://twitter.com/iquilezles)
-- [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping signals, by drag and dropping patterns. (Mindblowingly awesome) by [mandy3284](https://twitter.com/mandy3284)
+- [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping signals, by drag and dropping patterns. (Mindblowingly awesome) by [@mandy3284](https://twitter.com/mandy3284)
 
 ## Sandbox
 
@@ -159,6 +159,12 @@
 - [vercel](https://vercel.com/): Easy tool to host your projects, and free for a personal/hobbyist type of projects.
 
 # Libraries
+
+## Frameworks related
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for React by [@pmndrs](https://github.com/pmndrs)
+- [angular-three](https://github.com/nartc/angular-three): Declarative ThreeJS inspired by r3f for the Angular ecosystem by [@nartc](https://github.com/nartc)
+- [trois](https://github.com/troisjs/trois): The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
 
 ## Physics
 
