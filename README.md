@@ -1,13 +1,11 @@
 <div align="center">
     <br>
     <img src="assets/awesome-threejs-logo.png" alt="logo" width="80%"/>
-    <h1>Awesome Threejs</h1>
+    <h1>Awesome Threejs <a src="https://awesome.re"> <img src="https://awesome.re/badge.svg" alt="Awesome badge"/></a></h1>
     <p>
 		<b>3️⃣ A curated list of awesome ThreeJS resources</b>
-	</p>
+    </p>
 </div>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # Contents
 
@@ -21,8 +19,6 @@
 - [Tools](#Tools)
 - [Libraries](#Libraries)
 - [Community](#Community)
-
-- [How to contribute to this repository?](#Contribute)
 
 # Core
 
