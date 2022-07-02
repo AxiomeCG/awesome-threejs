@@ -188,6 +188,10 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+Or you can reach me on Twitter:
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/axiom_3d)
+
 # Related Lists
 
 - [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - A curated list of awesome GLSL resources.
