@@ -75,7 +75,7 @@
   to understand shader projection, view and model matrices (visually impactful)
 
 ## Generative Art
-- [generative artistry tutorials](https://generativeartistry.com/tutorials/) by [@rumyra](https://github.com/rumyra) & [@tholman](https://github.com/tholman)
+- [generative artistry tutorials](https://generativeartistry.com/tutorials/): Really awesome evolutive tutorial to acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra) & [@tholman](https://github.com/tholman)
 # Inspiration
 
 ## Common
@@ -130,6 +130,9 @@
 
 - [HDRI-to-CubeMap](https://matheowis.github.io/HDRI-to-CubeMap/): A tool to convert your HDRI file into a Cube map that
   can be load as a CubeTexture in ThreeJS. by [@matheowis](https://github.com/matheowis)
+
+## Shaders
+- [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL by [@iquilezles](https://twitter.com/iquilezles)
 
 ## Sandbox
 
