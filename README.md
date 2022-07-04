@@ -186,7 +186,7 @@
 
 ## Physics
 
-- [Cannon.js](https://schteppe.github.io/cannon.js/)
+- [cannon-es](https://github.com/pmndrs/cannon-es) by [@pmndrs](https://github.com/pmndrs/)
 - [Ammo.js](https://github.com/kripken/ammo.js/)
 - [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
 
