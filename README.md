@@ -31,7 +31,8 @@
 ## 3D Theory
 
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html): A must-read book to be
-  comfortable with 3D maths. by [@ZPostFacto](https://twitter.com/ZPostFacto) & [@Ian-Parberry](https://github.com/Ian-Parberry)
+  comfortable with 3D maths. by [@ZPostFacto](https://twitter.com/ZPostFacto)
+  & [@Ian-Parberry](https://github.com/Ian-Parberry)
 
 ## ThreeJS
 
@@ -47,8 +48,10 @@
 
 ## Shaders
 
-- [The Easiest Way to Learn GLSL](https://simondev.teachable.com/p/glsl-shaders-from-scratch) by [@iced_coffee_dev](https://twitter.com/iced_coffee_dev)
-- [The Book of Shaders](https://thebookofshaders.com/): A reference on the road to master shaders. And it's free. by [@patriciogv](https://twitter.com/patriciogv)
+- [The Easiest Way to Learn GLSL](https://simondev.teachable.com/p/glsl-shaders-from-scratch)
+  by [@iced_coffee_dev](https://twitter.com/iced_coffee_dev)
+- [The Book of Shaders](https://thebookofshaders.com/): A reference on the road to master shaders. And it's free.
+  by [@patriciogv](https://twitter.com/patriciogv)
 
 # Articles
 
@@ -60,7 +63,9 @@
 
 ## 3D Theory
 
-- [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/): A very comprehensive article on homogeneous coordinates and projective geometry (To finally understand what is the 4th coordinate (w) in your vertex shaders)
+- [Explaining Homogeneous Coordinates & Projective Geometry](https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/):
+  A very comprehensive article on homogeneous coordinates and projective geometry (To finally understand what is the 4th
+  coordinate (w) in your vertex shaders)
 
 ## Tutorials
 
@@ -73,8 +78,9 @@
 
 ## Generative Art
 
-- [generative artistry tutorials](https://generativeartistry.com/tutorials/): Really awesome evolutive tutorial to acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra) & [@tholman](https://github.com/tholman)
-
+- [generative artistry tutorials](https://generativeartistry.com/tutorials/): Really awesome evolutive tutorial to
+  acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra)
+  & [@tholman](https://github.com/tholman)
 
 # Inspiration
 
@@ -91,7 +97,8 @@
 
 ## Shaders
 
-- [ShaderShop videos](http://tobyschachman.com/Shadershop/): Some awesome videos about ShaderShop and more. by [@mandy3284](https://twitter.com/mandy3284)
+- [ShaderShop videos](http://tobyschachman.com/Shadershop/): Some awesome videos about ShaderShop and more.
+  by [@mandy3284](https://twitter.com/mandy3284)
 
 # Resources
 
@@ -111,9 +118,12 @@
 
 ## GLSL Shaders
 
-- [Signal shaping functions](https://iquilezles.org/articles/functions/): A useful set of signal shaping patterns (to convert into GLSL) by [@iquilezles](https://twitter.com/iquilezles)
-- [Shaping functions](http://www.flong.com/archive/texts/code/): Awesome set of shaping functions for shaders by [@golan](https://twitter.com/golan)
-- [Cheat sheet on curves](https://www.flickr.com/photos/kynd/9546075099/): A quick reminder on how to make some signal patterns by [@kyndinfo](https://twitter.com/kyndinfo)
+- [Signal shaping functions](https://iquilezles.org/articles/functions/): A useful set of signal shaping patterns (to
+  convert into GLSL) by [@iquilezles](https://twitter.com/iquilezles)
+- [Shaping functions](http://www.flong.com/archive/texts/code/): Awesome set of shaping functions for shaders
+  by [@golan](https://twitter.com/golan)
+- [Cheat sheet on curves](https://www.flickr.com/photos/kynd/9546075099/): A quick reminder on how to make some signal
+  patterns by [@kyndinfo](https://twitter.com/kyndinfo)
 - [GLSL Noises](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83): Noises coded by others so you
   can use them directly in your shaders for cool effects (included: Perlin noises)
 
@@ -121,7 +131,8 @@
 
 ## Scene Creation
 
-- [Polygonjs](https://polygolnjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials and animation.
+- [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
+  and animation.
 
 ## 3D modeling
 
@@ -142,8 +153,11 @@
   can be load as a CubeTexture in ThreeJS. by [@matheowis](https://github.com/matheowis)
 
 ## Shaders
-- [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL by [@iquilezles](https://twitter.com/iquilezles)
-- [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping signals, by drag and dropping patterns. (Mindblowingly awesome) by [@mandy3284](https://twitter.com/mandy3284)
+
+- [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL
+  by [@iquilezles](https://twitter.com/iquilezles)
+- [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping
+  signals, by drag and dropping patterns. (Mindblowingly awesome) by [@mandy3284](https://twitter.com/mandy3284)
 
 ## Sandbox
 
@@ -162,10 +176,13 @@
 
 ## Frameworks related
 
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for React by [@pmndrs](https://github.com/pmndrs)
-- [angular-three](https://github.com/nartc/angular-three): Declarative ThreeJS inspired by r3f for the Angular ecosystem by [@nartc](https://github.com/nartc)
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for
+  React by [@pmndrs](https://github.com/pmndrs)
+- [angular-three](https://github.com/nartc/angular-three): Declarative ThreeJS inspired by r3f for the Angular ecosystem
+  by [@nartc](https://github.com/nartc)
 - [trois](https://github.com/troisjs/trois): The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
-- [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte by [@Rich-Harris](https://github.com/Rich-Harris)
+- [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte
+  by [@Rich-Harris](https://github.com/Rich-Harris)
 
 ## Physics
 
@@ -200,7 +217,8 @@ Or you can reach me on Twitter:
   much more.
 - [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and
   resources.
-- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - A carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - A carefully curated list of awesome
+  creative coding resources primarily for beginners/intermediates.
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer
   vision resources.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
