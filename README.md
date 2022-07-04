@@ -215,6 +215,7 @@ Or you can reach me on Twitter:
 - [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - A curated list of awesome GLSL resources.
 - [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and
   much more.
+- [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) - A curated list of awesome WebGPU resources.
 - [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and
   resources.
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - A carefully curated list of awesome
