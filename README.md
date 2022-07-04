@@ -119,6 +119,10 @@
 
 # Tools
 
+## Scene Creation
+
+- [Polygonjs](https://polygolnjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials and animation.
+
 ## 3D modeling
 
 - [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
