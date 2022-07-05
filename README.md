@@ -176,13 +176,26 @@
 
 # Libraries
 
-## Frameworks related
+## Related Frameworks
+
+### React
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
+- [drei](https://github.com/pmndrs/drei): Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+
+### Angular
+
 - [angular-three](https://github.com/nartc/angular-three): Declarative ThreeJS inspired by r3f for the Angular ecosystem
   by [@nartc](https://github.com/nartc)
+
+### Vue
+
 - [trois](https://github.com/troisjs/trois): The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
+
+### Svelte
+
+- [threlte](https://github.com/grischaerbe/threlte) A three.js component library for Svelte.
 - [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte
   by [@Rich-Harris](https://github.com/Rich-Harris)
 
