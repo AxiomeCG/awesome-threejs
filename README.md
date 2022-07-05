@@ -195,7 +195,7 @@
 
 ### Svelte
 
-- [threlte](https://github.com/grischaerbe/threlte) A three.js component library for Svelte.
+- [threlte](https://github.com/grischaerbe/threlte): A three.js component library for Svelte.
 - [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte
   by [@Rich-Harris](https://github.com/Rich-Harris)
 
