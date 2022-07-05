@@ -109,12 +109,14 @@
 ## 3D assets
 
 - [Poliigon](https://www.poliigon.com/): Assets for 3D artists (Textures, Models, HDRI)
+- [Poly Haven](https://polyhaven.com/): Public CC0 3D Asset Library (Textures, Models, HDRI)
 
 ## Textures
 
 - [3D textures](https://3dtextures.me/): Free PBR textures with Diffuse, Normal, Displacement, Occlusion, Specularity
   and Roughness Maps.
 - [Arroway Textures](https://www.arroway-textures.ch/): Digital textures for 3D rendering and real-time use.
+- [ambientCG](https://ambientcg.com/): - CC0 textures for Physically Based Rendering
 
 ## GLSL Shaders
 
