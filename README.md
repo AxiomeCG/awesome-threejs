@@ -19,6 +19,7 @@
 - [Tools](#Tools)
 - [Libraries](#Libraries)
 - [Community](#Community)
+- [Demonstrations](#Demonstrations)
 
 # Core
 
@@ -76,6 +77,11 @@
 - [Tutorial on Matrices](http://www.opengl-tutorial.org/fr/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
   to understand shader projection, view and model matrices (visually impactful)
 
+## Water
+
+- [Real-time rendering of water caustics](https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa) Clever approach to caustics rendering
+- [Realtime fluid simulation](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) Awesome article for the ones that want to create truly realistic water
+
 ## Generative Art
 
 - [generative artistry tutorials](https://generativeartistry.com/tutorials/): Really awesome evolutive tutorial to
@@ -128,6 +134,7 @@
   patterns by [@kyndinfo](https://twitter.com/kyndinfo)
 - [GLSL Noises](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83): Noises coded by others so you
   can use them directly in your shaders for cool effects (included: Perlin noises)
+- [Realistic water shader](https://github.com/jbouny/ocean) There are also some links with explanation of the approach
 
 # Tools
 
@@ -209,6 +216,14 @@
 
 - [ossos](https://github.com/sketchpunklabs/ossos) A complete character skinning & animation library for the web
 - [mannequin.js](https://boytchev.github.io/mannequin.js/) Library for procedural character generation. Armature included
+
+# Demonstrations
+
+## Water
+
+- [fft-ocean](https://github.com/jbouny/fft-ocean) Fast Fourier Transform ocean rendering for Three.js
+- [skunami.js](https://github.com/skeelogy/skunami.js/) Marvellous project with realistic water interaction
+- [Shallow water](https://vuoriov4.github.io/webgl-water-demo/) Demo project that shows water ripple effect
 
 # Community
 
