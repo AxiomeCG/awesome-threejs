@@ -8,9 +8,15 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure that your submission is really awesome. Awesome lists are curations of the best, not everything.
+- Try to add a short description of the link you are adding by following the convention. Try to credit the author(s) by linking a Twitter/GitHub profile (or website/portfolio): 
+
+For example 
+```markdown
+- [Name of the resource](<link>): <short description> by [@<author1 nickname>](<link to author1 profile>) & [@<author2 nickname>](<link to author2 profile>)
+```
+- Choose the best link of all, that makes the navigation and the understanding of the resource the easiest possible. (i.e. prefer linking a GitHub repository over its demo link, moreover if the demo does no link back to the repository. The demo link is certainly linked anyway in the repo)
+- Ensure that your submission is in the right category. If it does not fit anywhere, propose a new category or sub-category that we will review in the PR.
 
 Thank you for your suggestions!
 
