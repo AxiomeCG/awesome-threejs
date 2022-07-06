@@ -82,6 +82,13 @@
   acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra)
   & [@tholman](https://github.com/tholman)
 
+## Collision detection
+
+- [Bounding volume collision detection](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection/Bounding_volume_collision_detection_with_THREE.js)
+- [Physics based collision detection](https://medium.com/@bluemagnificent/collision-detection-in-javascript-3d-physics-using-ammo-js-and-three-js-31a5569291ef)
+- [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
+- [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
+
 # Inspiration
 
 ## Common
@@ -204,6 +211,10 @@
 - [cannon-es](https://github.com/pmndrs/cannon-es) by [@pmndrs](https://github.com/pmndrs/)
 - [Ammo.js](https://github.com/kripken/ammo.js/)
 - [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
+
+## Collision detection
+
+- [Three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) Highly effective way to check for collisions
 
 # Community
 
