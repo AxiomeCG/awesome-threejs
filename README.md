@@ -212,6 +212,11 @@
 - [Ammo.js](https://github.com/kripken/ammo.js/)
 - [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
 
+## Pathfinding
+- [Pathfinging.js](https://github.com/qiao/PathFinding.js) Useful library with tons of settings
+- [Three-pathfinging](https://github.com/donmccurdy/three-pathfinding) Three.js plugin for navigation
+- [Kompute](https://github.com/oguzeroglu/Kompute) Easy to use steering library
+
 ## Characters
 
 - [ossos](https://github.com/sketchpunklabs/ossos) A complete character skinning & animation library for the web
