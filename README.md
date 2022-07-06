@@ -205,6 +205,11 @@
 - [Ammo.js](https://github.com/kripken/ammo.js/)
 - [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
 
+## Characters
+
+- [ossos](https://github.com/sketchpunklabs/ossos) A complete character skinning & animation library for the web
+- [mannequin.js](https://boytchev.github.io/mannequin.js/) Library for procedural character generation. Armature included
+
 # Community
 
 ## Core
