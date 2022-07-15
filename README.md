@@ -34,6 +34,7 @@
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html): A must-read book to be
   comfortable with 3D maths. by [@ZPostFacto](https://twitter.com/ZPostFacto)
   & [@Ian-Parberry](https://github.com/Ian-Parberry)
+- [Physically Based Rendering - From Theory to Implementation](https://pbr-book.org/): A reference in term of PBR concepts. A gold mine. by [@mmp](https://github.com/mmp), [@wjakob](https://github.com/wjakob) & [@humper](https://twitter.com/humper)
 
 ## ThreeJS
 
