@@ -36,6 +36,9 @@
   & [@Ian-Parberry](https://github.com/Ian-Parberry)
 - [Physically Based Rendering - From Theory to Implementation](https://pbr-book.org/): A reference in term of PBR concepts. A gold mine. by [@mmp](https://github.com/mmp), [@wjakob](https://github.com/wjakob) & [@humper](https://twitter.com/humper)
 
+## Creative Coding
+- [The Nature of Code](https://natureofcode.com/): Amazing book by a very funny author about a bunch of stuff to make experiences more natural based on the Processing language by [@shiffman](https://github.com/shiffman)
+
 ## ThreeJS
 
 - [Discover three.js](https://discoverthreejs.com/)
