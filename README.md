@@ -78,7 +78,7 @@
   article about MeshSurfaceSampler
 - [How to Create a Fake 3D Image Effect with WebGL](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/):
   A good article to learn how to add a fake depth to a 2D image in ThreeJS.
-- [Tutorial on Matrices](http://www.opengl-tutorial.org/fr/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
+- [Tutorial on Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
   to understand shader projection, view and model matrices (visually impactful)
 
 ## Water
