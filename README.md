@@ -220,10 +220,15 @@
 - [cannon-es](https://github.com/pmndrs/cannon-es) by [@pmndrs](https://github.com/pmndrs/)
 - [Ammo.js](https://github.com/kripken/ammo.js/)
 - [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
+- [Rapier](https://github.com/dimforge/rapier) by [@dimforge](https://github.com/dimforge/) 
 
-## Collision detection
+## Spatial querying & Raycasting
 
-- [Three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) Highly effective way to check for collisions
+- [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) by [@gkjohnson](https://github.com/gkjohnson/): Highly effective way to check for collisions and to accelerate raycasting by the usage of bounding volume hierarchy. (Really a must have in your toolkit)
+
+## Constructive Solid Geometry
+
+- [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) by [@gkjohnson](https://github.com/gkjohnson/): A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh. (Amazing tool to perform some Boolean operations between meshes like intersection, difference, ...)
 
 ## Pathfinding
 
