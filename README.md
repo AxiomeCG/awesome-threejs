@@ -20,7 +20,7 @@
 - [Libraries](#Libraries)
 - [Community](#Community)
 - [Demonstrations](#Demonstrations)
-
+- [Others](#Others)
 # Core
 
 - [ThreeJS official website](https://threejs.org/)
@@ -134,7 +134,7 @@
 - [ambientCG](https://ambientcg.com/): - CC0 textures for Physically Based Rendering
 
 ## GLSL Shaders
-
+### Main
 - [Signal shaping functions](https://iquilezles.org/articles/functions/): A useful set of signal shaping patterns (to
   convert into GLSL) by [@iquilezles](https://twitter.com/iquilezles)
 - [Shaping functions](http://www.flong.com/archive/texts/code/): Awesome set of shaping functions for shaders
@@ -144,7 +144,10 @@
 - [GLSL Noises](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83): Noises coded by others so you
   can use them directly in your shaders for cool effects (included: Perlin noises)
 - [Realistic water shader](https://github.com/jbouny/ocean) There are also some links with explanation of the approach
-
+### Other
+- [PixelSpirit Elements Deck](https://pixelspiritdeck.com/): This is a tarot deck for learning GLSL shaders. Each PixelSpirit card has a visual element and its GLSL shader code. The cards are ordered from simplest to most complex, building a library of code functions that combine like a book of spells to form an infinite visual language. by [@patriciogv](https://twitter.com/patriciogv)
+	- [PixelSpirit GitHub](https://github.com/patriciogonzalezvivo/PixelSpiritDeck) Library associated with the PixelSpirit Elemens Deck by [@patriciogv](https://twitter.com/patriciogv)
+	
 # Tools
 
 ## Scene Creation
@@ -171,11 +174,14 @@
   can be load as a CubeTexture in ThreeJS. by [@matheowis](https://github.com/matheowis)
 
 ## Shaders
-
+### Online tools
 - [GraphToy](https://graphtoy.com/): Powerful tool to wrap your head around and test shaping signals in GLSL
   by [@iquilezles](https://twitter.com/iquilezles)
 - [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping
   signals, by drag and dropping patterns. (Mindblowingly awesome) by [@mandy3284](https://twitter.com/mandy3284)
+  
+### Installed tools
+- [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer): Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
 
 ## Sandbox
 
@@ -191,6 +197,8 @@
 - [vercel](https://vercel.com/): Easy tool to host your projects, and free for a personal/hobbyist type of projects.
 
 # Libraries
+## GLSL/HLSL Shaders
+- [lygia](https://github.com/patriciogonzalezvivo/lygia):  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
 
 ## Related Frameworks
 
@@ -265,7 +273,6 @@
 - [Official Slack](https://join.slack.com/t/threejs/shared_invite/zt-rnuegz5e-FQpc6YboDVW~5idlp7GfDw)
 - [Official Twitter](https://twitter.com/threejs)
 - [Official Reddit](https://www.reddit.com/r/threejs/)
-
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
