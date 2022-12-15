@@ -179,6 +179,7 @@
   by [@iquilezles](https://twitter.com/iquilezles)
 - [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping
   signals, by drag and dropping patterns. (Mindblowingly awesome) by [@mandy3284](https://twitter.com/mandy3284)
+- [NodeToy](https://app.nodetoy.co/): The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking [react-nodetoy](https://github.com/NodeToy/react-nodetoy). All of this provided by [@Nodetoy](https://github.com/NodeToy).
   
 ### Installed tools
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer): Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
