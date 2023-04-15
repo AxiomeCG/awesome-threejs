@@ -180,6 +180,7 @@
 - [ShaderShop editor](http://tobyschachman.com/Shadershop/editor/): Visually impactful editor to work on shaping
   signals, by drag and dropping patterns. (Mindblowingly awesome) by [@mandy3284](https://twitter.com/mandy3284)
 - [NodeToy](https://app.nodetoy.co/): The shader tool for the web. NodeToy provides creators a powerful editor to create incredible new shaders and visual effects. If you are a react-three-fiber user, consider checking [react-nodetoy](https://github.com/NodeToy/react-nodetoy). All of this provided by [@Nodetoy](https://github.com/NodeToy).
+- [Shader Park](https://shaderpark.com/): A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. ([to contribute](https://github.com/shader-park/shader-park-core)) by [@shader-park](https://github.com/shader-park)
   
 ### Installed tools
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer): Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
