@@ -202,6 +202,10 @@
 ## GLSL/HLSL Shaders
 - [lygia](https://github.com/patriciogonzalezvivo/lygia):  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
 
+## Animation
+- [gsap](https://greensock.com/gsap/): A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
+
+
 ## Related Frameworks
 
 ### React
@@ -209,6 +213,9 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
 - [drei](https://github.com/pmndrs/drei): Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+- [react-postprocessing](https://github.com/pmndrs/react-postprocessing): a postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
+- [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
+- [framer-motion](https://www.framer.com/motion/): A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for binding animation on entering and leaving the viewport element.
 
 ### Angular
 
