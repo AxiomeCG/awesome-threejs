@@ -225,6 +225,9 @@
 ### Vue
 
 - [trois](https://github.com/troisjs/trois): The equivalent of r3f for VueJS by [@troisjs](https://github.com/troisjs)
+- [TresJs](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components by [@tresjs_dev](https://github.com/Tresjs)
+- [Cientos](https://github.com/Tresjs/cientos): Collection of useful helpers and fully functional, ready-made abstractions for TresJs [@tresjs_dev](https://github.com/Tresjs)
+- [tres-post-processing](https://github.com/Tresjs/post-processing): Post-processing library for TresJs [@tresjs_dev](https://github.com/Tresjs)
 
 ### Svelte
 
