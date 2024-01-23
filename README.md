@@ -291,7 +291,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Or you can reach me on Twitter:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_Axiome_)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Axiome_CG)
 
 # Related Lists
 
