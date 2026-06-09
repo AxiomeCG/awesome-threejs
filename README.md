@@ -226,6 +226,7 @@
 - [react-postprocessing](https://github.com/pmndrs/react-postprocessing): A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 - [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
 - [framer-motion](https://www.framer.com/motion/): A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for binding animation on entering and leaving the viewport element.
+- [morph-hero](https://github.com/othmarodev/morph-hero): A cinematic portfolio hero component where particles morph between a country flag and a name, with constellation lines and mouse parallax. Single particle system architecture. Live demo at [morph-hero.othmaro.dev](https://morph-hero.othmaro.dev) by [@othmarodev](https://github.com/othmarodev)
 
 ### Angular
 
