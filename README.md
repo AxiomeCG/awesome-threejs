@@ -156,6 +156,7 @@
 
 ## Debug/Optimization
 
+- [KTX2 Texture Compressor](https://app.cinevva.com/tools/ktx2-compressor): Browser tool to convert PNG, JPG, and WebP textures to KTX2 (Basis Universal, UASTC or ETC1S) to cut VRAM and load time. Runs locally, no upload.
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
 
