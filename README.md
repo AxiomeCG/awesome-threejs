@@ -285,6 +285,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Space
+
+- [Solar Wanderer](https://sw.icodestar.net) — A 1:1 real-time solar system explorer in the browser, powered by NASA JPL ephemerides. [Source](https://github.com/hyqzz/Solar-Wanderer)
+
 # Community
 
 ## Core
