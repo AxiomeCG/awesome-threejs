@@ -172,6 +172,7 @@
 - [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
   Apprentice"
   can be used to learn (no commercial usage)
+- [img2threejs](https://github.com/hoainho/img2threejs): Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 - [Spline](https://spline.design/): A promising tool for 3D modeling, collaboratively.
 
 ## Materials
