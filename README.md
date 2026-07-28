@@ -103,6 +103,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [The Oldest Thing You'll Ever Own](https://www.prodiam.co.za/oldest/): A scroll-driven deep-time journey of a diamond, from rough crystal to polished brilliant, built with Three.js and GSAP ([source](https://github.com/prodiamadmin/deep-time-diamond))
 
 ## Shaders
 
