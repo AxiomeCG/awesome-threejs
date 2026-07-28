@@ -231,6 +231,10 @@
 
 ## Related Frameworks
 
+### Framework Agnostic
+
+- [KGEngine](https://github.com/KANTNOLI/kgengine): A high-level 3D engine built on THREE.js with simplified API, built-in shader system, object management, and ready-to-use components. **Key feature: native HTML/CSS elements embedded directly into 3D space with proper depth, occlusion, and camera interaction.** Works with any framework (React, Vue, Svelte, Angular, or vanilla JS). Open source (GPLv3). by [@KANTNOLI](https://github.com/KANTNOLI)
+  
 ### React
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for
