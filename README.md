@@ -154,6 +154,12 @@
 	
 # Tools
 
+## Audio Visualization
+
+- [Audio Reactive 3D Visualizer](https://github.com/7g3n/phase-viz): An MIT-licensed browser-based music
+  visualizer combining Three.js, WebGL, and the Web Audio API, with real-time rendering and Full HD MP4 export
+  — by [@7g3n](https://github.com/7g3n).
+
 ## Debug/Optimization
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
