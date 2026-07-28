@@ -216,6 +216,11 @@
 ## Animation
 - [gsap](https://greensock.com/gsap/): A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
 
+## Controls
+
+- [camera-controls](https://github.com/yomotsu/camera-controls) by [@yomotsu](https://github.com/yomotsu/): A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.
+- [three-pivot-controls](https://github.com/bbdaii/three-pivot-controls) by [@bbdaii](https://github.com/bbdaii): A gizmo-style pivot control for vanilla ThreeJS — drag to translate, rotate, and scale objects with mouse and touch, inspired by drei's PivotControls but framework-free.
+
 
 ## Related Frameworks
 
