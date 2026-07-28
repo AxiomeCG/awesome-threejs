@@ -178,6 +178,7 @@
 ## Materials
 
 - [Adobe Substance3D Suite](https://www.adobe.com/fr/products/substance3d/3d-augmented-reality.html)
+- [Mixos](https://www.mixos.io): Browser-based 3D texture & PBR material painter — paint, layer and mask materials directly on any model and export render-ready maps. Built with three.js / react-three-fiber.
 
 ## Cube Texture
 
