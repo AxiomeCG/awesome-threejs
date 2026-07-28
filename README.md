@@ -104,6 +104,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [Vizz.fm](https://vizz.fm): Browser-based music visualizer with customizable scenes and presets by [@preziotte](https://github.com/preziotte)
 
 ## Shaders
 
