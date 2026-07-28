@@ -255,7 +255,7 @@
 
 ### Svelte
 
-- [Threlte](https://github.com/grischaerbe/threlte): A three.js component library for Svelte
+- [Threlte](https://github.com/threlte/threlte): A three.js component library for Svelte
 - [svelte-cubed](https://github.com/Rich-Harris/svelte-cubed): Declarative ThreeJS for Svelte
   by [@Rich-Harris](https://github.com/Rich-Harris)
 - [threlte-postprocessing](https://github.com/1bye/threlte-postprocessing): A postprocessing wrapper for Threlte by [@1bye](https://github.com/1bye)
@@ -277,8 +277,8 @@
 
 ## Pathfinding
 
-- [Pathfinging.js](https://github.com/qiao/PathFinding.js) Useful library with tons of settings
-- [Three-pathfinging](https://github.com/donmccurdy/three-pathfinding) Three.js plugin for navigation
+- [Pathfinding.js](https://github.com/qiao/PathFinding.js) Useful library with tons of settings
+- [Three-pathfinding](https://github.com/donmccurdy/three-pathfinding) Three.js plugin for navigation
 - [Kompute](https://github.com/oguzeroglu/Kompute) Easy to use steering library
 
 ## Characters
