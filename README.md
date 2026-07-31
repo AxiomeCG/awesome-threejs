@@ -180,6 +180,7 @@
   Apprentice"
   can be used to learn (no commercial usage)
 - [img2threejs](https://github.com/hoainho/img2threejs): Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+- [Three.js Sculpt DNA](https://github.com/hyeonsangjeon/threejs-sculpt-dna): GitHub Copilot plugin for procedural reconstruction, deterministic topology-safe asset families, and executable evidence gates. by [@hyeonsangjeon](https://github.com/hyeonsangjeon)
 - [Spline](https://spline.design/): A promising tool for 3D modeling, collaboratively.
 
 ## Materials
