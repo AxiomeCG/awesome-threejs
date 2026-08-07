@@ -121,6 +121,7 @@
 ## Miscellaneous
 
 - [Three.js Resources](https://threejsresources.com/): Contains a bunch of curated resources (tools, tutorials, libraries, and techniques...) related to Three.js
+- [stl-simplify](https://github.com/ariburaco/stl-simplify): Decimate huge STL / 3D-scan meshes to a target triangle budget with three.js + meshoptimizer, with an automatic sloppy fallback for high-genus meshes by [@ariburaco](https://github.com/ariburaco)
 
 ## Matcaps
 
