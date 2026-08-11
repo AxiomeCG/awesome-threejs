@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Procedural geometry
+
+- [Graded Gyroid](https://smirnov-artur.github.io/webgl/lattice) A gradient gyroid lattice ray-marched from a signed distance field — no mesh, no texture, the geometry comes entirely from the function. by [@smirnov-artur](https://github.com/smirnov-artur)
+
 # Community
 
 ## Core
