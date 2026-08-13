@@ -220,6 +220,10 @@
 ## GLSL/HLSL Shaders
 - [lygia](https://github.com/patriciogonzalezvivo/lygia):  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
 
+## Lighting
+
+- [lightmap-baker](https://github.com/Ibrahim-3d/three-lightmap-baker): Browser-native path-traced lightmap baking for Three.js with automatic UVs, multi-bounce GI, denoising, and light probes by [@Ibrahim-3d](https://github.com/Ibrahim-3d)
+
 ## Animation
 - [gsap](https://greensock.com/gsap/): A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
 
