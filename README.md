@@ -171,6 +171,9 @@
 - [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
 - [Three-Blender](https://github.com/ppmpreetham/three-blender): Blender based tool, to convert your Blender files directly to threeJS.
+- [CozyClay](https://github.com/HaD0Yun/CozyClay): Browser-based 3D staging studio to block a scene, pose characters, author
+  camera moves and cuts on a timeline, and preview generated motion. Handles like the Unity Editor and runs entirely in the
+  browser ([demo](https://cozyclay.org)). by [@HaD0Yun](https://github.com/HaD0Yun)
 
 ## 3D modeling
 
