@@ -223,6 +223,10 @@
 ## Animation
 - [gsap](https://greensock.com/gsap/): A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
 
+## Augmented Reality
+
+- [encantar.js](https://github.com/alemart/encantar-js) by [@alemart](https://github.com/alemart): GPU-accelerated Augmented Reality library that works in any device (iOS, Android, Desktops...). It is easy to use and does not require WebXR support.
+
 ## Controls
 
 - [camera-controls](https://github.com/yomotsu/camera-controls) by [@yomotsu](https://github.com/yomotsu/): A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.
