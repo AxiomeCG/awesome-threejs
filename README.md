@@ -168,6 +168,8 @@
 
 ## Scene Creation
 
+- [NixieFX](https://github.com/azakhary/nixie-fx): Browser-based particle and VFX editor with its own Three.js
+  runtime. Effects are exported as JSON plus textures and loaded at runtime by [@azakhary](https://github.com/azakhary)
 - [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
 - [Three-Blender](https://github.com/ppmpreetham/three-blender): Blender based tool, to convert your Blender files directly to threeJS.
