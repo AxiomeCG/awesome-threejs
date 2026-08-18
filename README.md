@@ -225,7 +225,7 @@
 
 ## Augmented Reality
 
-- [encantar.js](https://github.com/alemart/encantar-js) by [@alemart](https://github.com/alemart): GPU-accelerated Augmented Reality library that works in any device (iOS, Android, Desktops...). It is easy to use and does not require WebXR support.
+- [encantar.js](https://github.com/alemart/encantar-js) by [@alemart](https://github.com/alemart): GPU-accelerated Augmented Reality library that works on any device (iOS, Android, desktops). Easy to use and requires no WebXR support.
 
 ## Controls
 
