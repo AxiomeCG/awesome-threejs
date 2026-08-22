@@ -236,6 +236,8 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber): A declarative way of handling your ThreeJS stuff for
   React by [@pmndrs](https://github.com/pmndrs)
 - [drei](https://github.com/pmndrs/drei): Useful helpers for react-three-fiber by [@pmndrs](https://github.com/pmndrs)
+- [ThreeUI Community](https://github.com/MengTo/threeui) is an open-source catalog of interactive React, Canvas and Three.js components with complete source.
+- [threeui-cli](https://github.com/sjh9714/threeui-cli) copies individual ThreeUI Community components, shared files and assets into React projects and verifies their SHA-256 digests.
 - [react-postprocessing](https://github.com/pmndrs/react-postprocessing): A postprocessing wrapper for @react-three/fiber by [@pmndrs](https://github.com/pmndrs)
 - [react-spring](https://www.react-spring.dev/): An awesome library about physically accurate animations. Works smoothly also for react-three-fiber using the package [`@react-spring/three`](https://www.react-spring.dev/docs/guides/react-three-fiber)
 - [framer-motion](https://www.framer.com/motion/): A nice animation library for react, and can be used with react-three-fiber too through the [`framer-motion-3d`](https://www.framer.com/motion/three-introduction/) package usage. Very nice for binding animation on entering and leaving the viewport element.
