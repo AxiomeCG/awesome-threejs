@@ -130,6 +130,7 @@
 
 - [Poliigon](https://www.poliigon.com/): Assets for 3D artists (Textures, Models, HDRI)
 - [Poly Haven](https://polyhaven.com/): Public CC0 3D Asset Library (Textures, Models, HDRI)
+- [Gobkit](https://gobkit.com/freebies): CC0 rigged & animated low-poly .glb characters and props, with a no-auth JSON manifest at /api/free
 
 ## Textures
 
