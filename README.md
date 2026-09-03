@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Product configurators
+
+- [Dealect Sauna Configurator](https://dealect.com/sauna-configurator) Live barrel sauna configurator running in production. Parametric geometry rebuilds as the diameter and length change, with measurement callouts and a running price. by [@dealect](https://github.com/dealect)
+
 # Community
 
 ## Core
