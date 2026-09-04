@@ -299,6 +299,11 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+
+## Product configurators
+
+- [threejs-product-configurator-starter](https://github.com/GronskiDeveloper/threejs-product-configurator-starter) MIT starter for building 3D product configurators (Three.js + importmap, no build step, single index.html). Shows parametric geometry, material/finish switching, live spec/price readout. By [@GronskiDeveloper](https://github.com/GronskiDeveloper)
+
 # Community
 
 ## Core
