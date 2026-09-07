@@ -266,6 +266,7 @@
 - [Ammo.js](https://github.com/kripken/ammo.js/)
 - [Oimo.js](https://lo-th.github.io/Oimo.js/#basic)
 - [Rapier](https://github.com/dimforge/rapier) by [@dimforge](https://github.com/dimforge/) 
+- [Flit](https://github.com/brashler/Flit): Tiny sphere-physics engine for three.js games and demos - Morton spatial-hash broadphase, impulse solver, ships an MCP server and an agent skill - by [@brashler](https://github.com/brashler)
 
 ## Spatial querying & Raycasting
 
