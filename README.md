@@ -288,6 +288,10 @@
 
 # Demonstrations
 
+## Characters
+
+- [Milo](https://github.com/michaelegbo/milo): A procedural voice companion with textured materials, audio-driven expressions and gestures, and browser-local inference (source available; PolyForm Noncommercial 1.0.0) by [@michaelegbo](https://github.com/michaelegbo).
+
 ## Water
 
 - [fft-ocean](https://github.com/jbouny/fft-ocean) Fast Fourier Transform ocean rendering for Three.js
