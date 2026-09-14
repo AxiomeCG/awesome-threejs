@@ -215,6 +215,7 @@
 ## Hosting
 
 - [vercel](https://vercel.com/): Easy tool to host your projects, and free for a personal/hobbyist type of projects.
+- [Schema3D](https://schema3d.com): Browser-only 3D database schema / ER visualizer (SQL, Mermaid, DrawDB) built with React Three Fiber — by [@shane-jacobeen](https://github.com/shane-jacobeen)
 
 # Libraries
 ## GLSL/HLSL Shaders
