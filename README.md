@@ -171,6 +171,7 @@
 - [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
 - [Three-Blender](https://github.com/ppmpreetham/three-blender): Blender based tool, to convert your Blender files directly to threeJS.
+- [WorldSeed](https://github.com/yz4git/next-gen): Turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, semantic objects, GLB, road graphs, spawn points and versioned JSON Schema by [@yz4git](https://github.com/yz4git).
 
 ## 3D modeling
 
