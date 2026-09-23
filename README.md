@@ -227,6 +227,7 @@
 
 - [camera-controls](https://github.com/yomotsu/camera-controls) by [@yomotsu](https://github.com/yomotsu/): A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.
 - [three-pivot-controls](https://github.com/bbdaii/three-pivot-controls) by [@bbdaii](https://github.com/bbdaii): A gizmo-style pivot control for vanilla ThreeJS — drag to translate, rotate, and scale objects with mouse and touch, inspired by drei's PivotControls but framework-free.
+- [three-freecam](https://github.com/hxtnv/three-freecam) by [@hxtnv](http://github.com/hxtnv): A Unity style debug camera controller for ThreeJS. Right-drag to look, WASD to fly, middle-drag to pan, alt-drag to orbit.
 
 
 ## Related Frameworks
