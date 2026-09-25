@@ -216,6 +216,10 @@
 
 - [vercel](https://vercel.com/): Easy tool to host your projects, and free for a personal/hobbyist type of projects.
 
+## AI Agent Skills
+
+- [motion-kit](https://github.com/kiselas/every-frame-is-code): an agent skill for Claude Code and Codex that builds Three.js scenes (bloom, ACES tone mapping, shader particles) and renders them to MP4 frame by frame with headless Chrome and ffmpeg, by [@kiselas](https://github.com/kiselas)
+
 # Libraries
 ## GLSL/HLSL Shaders
 - [lygia](https://github.com/patriciogonzalezvivo/lygia):  a granular and multi-language shader library designed for performance and flexibility by [@patriciogv](https://twitter.com/patriciogv). A cross platform library that will help you iterate on your shaders very easily. Going deep in the code of a specific functionality can also help you learn GLSL/HLSL.
