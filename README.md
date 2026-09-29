@@ -128,6 +128,7 @@
 
 ## 3D assets
 
+- [3DTexel](https://3dtexel.com/free-library/): Handmade CC0 3D asset library (PBR textures, HDRIs, decals, models), free account required
 - [Poliigon](https://www.poliigon.com/): Assets for 3D artists (Textures, Models, HDRI)
 - [Poly Haven](https://polyhaven.com/): Public CC0 3D Asset Library (Textures, Models, HDRI)
 
