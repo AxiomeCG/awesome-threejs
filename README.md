@@ -285,6 +285,7 @@
 
 - [ossos](https://github.com/sketchpunklabs/ossos) A complete character skinning & animation library for the web
 - [mannequin.js](https://boytchev.github.io/mannequin.js/) Library for procedural character generation. Armature included
+- [@three-ws/motion](https://github.com/nirholas/three-ws-motion): Text to full-body character animation. Turns a sentence or a JSON "Motion Score" into a three.js AnimationClip for humanoid rigs (Mixamo, VRM, and others), solved procedurally with IK, with no motion capture data or model weights. By [@nirholas](https://github.com/nirholas)
 
 # Demonstrations
 
