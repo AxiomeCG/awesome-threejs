@@ -333,3 +333,4 @@ Or you can reach me on Twitter:
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 - [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 - [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+- [awesome-ai-built-games](https://github.com/lappemic/awesome-ai-built-games) - A curated list of playable games built with AI coding agents, about half of them made with Three.js.
