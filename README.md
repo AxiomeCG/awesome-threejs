@@ -128,6 +128,7 @@
 
 ## 3D assets
 
+- [Assets for three.js](https://assetsforthreejs.com/): GLB model packs made for three.js, with LODs, named sockets and layout generators (British streets, architecture, construction sites, parks and sport; free starter pack)
 - [Poliigon](https://www.poliigon.com/): Assets for 3D artists (Textures, Models, HDRI)
 - [Poly Haven](https://polyhaven.com/): Public CC0 3D Asset Library (Textures, Models, HDRI)
 
