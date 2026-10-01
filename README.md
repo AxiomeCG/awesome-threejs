@@ -161,6 +161,10 @@
   visualizer combining Three.js, WebGL, and the Web Audio API, with real-time rendering and Full HD MP4 export
   — by [@7g3n](https://github.com/7g3n).
 
+## Architecture
+
+- [House Planner](https://github.com/egmalt/house-planner): Self-hosted planner for a private house built with React Three Fiber. True-scale 2D plan rendered to 3D with CSG-cut openings (three-bvh-csg), world-space UVs, Model and Materials looks, RAL colours, wall cutaway via clipping planes, N8AO, plus utility networks and a bill of materials. MIT. by [@egmalt](https://github.com/egmalt)
+
 ## Debug/Optimization
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
