@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Car customization
+
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/): Paint AI-generated wraps onto three.js Tesla models (Model 3, Model Y, Cybertruck) with a panel-by-panel suit-up animation, then drive the wrapped car in the browser.
+
 # Community
 
 ## Core
