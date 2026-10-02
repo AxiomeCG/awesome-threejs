@@ -176,6 +176,7 @@
 
 - [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
+- [blender-kiln](https://github.com/elithril/blender-kiln): A Claude Code plugin that drives Blender over MCP to rebuild an object from a text brief or a reference photo as an optimized glTF/GLB (Draco, WebP), measured against the photo. by [@elithril](https://github.com/elithril)
 - [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
   Apprentice"
   can be used to learn (no commercial usage)
