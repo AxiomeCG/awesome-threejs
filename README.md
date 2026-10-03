@@ -174,6 +174,7 @@
 
 ## 3D modeling
 
+- [3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill): Turn any flat logo into a spinning 3D coin, no modeling. Traces the logo's outline into a chrome rim and outputs one React Three Fiber component; the browser demo exports an MP4 loop. by [@hasuwini77](https://github.com/hasuwini77)
 - [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
 - [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
