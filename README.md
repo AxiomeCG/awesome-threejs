@@ -168,6 +168,7 @@
 
 ## Scene Creation
 
+- [IA Code Studio](https://ia-codestudio.com): In-browser AI-powered Three.js and WebGL studio for prompt-to-code 3D scene generation, SVG/DXF to 3D mesh extrusion, and interactive standalone exports.
 - [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
 - [Three-Blender](https://github.com/ppmpreetham/three-blender): Blender based tool, to convert your Blender files directly to threeJS.
