@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Space
+
+- [Exo-View](https://exo-view.com/): Interactive 3D atlas of the Milky Way: 32,000+ real stars, nebulae and black holes at their measured positions, every planet and moon where it is right now, down to Earth with every country's data by [@DanielNoamTuby](https://github.com/DanielNoamTuby)
+
 # Community
 
 ## Core
