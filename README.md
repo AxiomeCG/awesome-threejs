@@ -227,6 +227,7 @@
 
 - [camera-controls](https://github.com/yomotsu/camera-controls) by [@yomotsu](https://github.com/yomotsu/): A well-rounded camera controller for ThreeJS with damping, boundaries, and smooth transitions between viewpoints — more full-featured than the built-in OrbitControls.
 - [three-pivot-controls](https://github.com/bbdaii/three-pivot-controls) by [@bbdaii](https://github.com/bbdaii): A gizmo-style pivot control for vanilla ThreeJS — drag to translate, rotate, and scale objects with mouse and touch, inspired by drei's PivotControls but framework-free.
+- [Leviate](https://github.com/vladpereverzyev/leviate) by [@vladpereverzyev](https://github.com/vladpereverzyev): Hand-gesture controls for a ThreeJS viewer: the webcam tracks the hand with MediaPipe and turns, pans and zooms the model.
 
 
 ## Related Frameworks
