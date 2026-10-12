@@ -104,6 +104,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [Scam With Your Friends Web](https://github.com/mrzh7/scam-with-your-friends-web): Unofficial fan-made multiplayer browser game with a Three.js 3D office, WebRTC voice and Cloudflare Durable Objects by [@mrzh7](https://github.com/mrzh7)
 
 ## Shaders
 
