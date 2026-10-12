@@ -104,6 +104,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [3D Solar System Simulator](https://www.3dsolarsystem.net/): Three.js solar system with a true-scale mode, LOD planets and first-person walks on the Moon and Mars ([source](https://github.com/sweesama/Mzu-3D-Solar-System--Interactive-Solar-System-Simulator))
 
 ## Shaders
 
