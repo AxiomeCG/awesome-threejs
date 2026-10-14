@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Music
+
+- [Ocarina Simulator](https://github.com/zengm32343/ocarina-simulator) A playable 3D ocarina with six instrument styles (procedural and photogrammetry GLB models), fingering shown on the model, song recognition and Web Audio sound. [Live demo](https://ootguide.com/ocarina/)
+
 # Community
 
 ## Core
