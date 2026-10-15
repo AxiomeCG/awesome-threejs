@@ -160,6 +160,8 @@
 - [Audio Reactive 3D Visualizer](https://github.com/7g3n/phase-viz): An MIT-licensed browser-based music
   visualizer combining Three.js, WebGL, and the Web Audio API, with real-time rendering and Full HD MP4 export
   — by [@7g3n](https://github.com/7g3n).
+- [Vizz.fm](https://vizz.fm): Free real-time music visualizer in the browser, with eleven Three.js visualizers,
+  custom shaders and morphing presets, by [@preziotte](https://github.com/preziotte).
 
 ## Debug/Optimization
 
