@@ -161,6 +161,10 @@
   visualizer combining Three.js, WebGL, and the Web Audio API, with real-time rendering and Full HD MP4 export
   — by [@7g3n](https://github.com/7g3n).
 
+## Data Visualization
+
+- [Repoville](https://github.com/maximilianfeix/repoville): CLI that renders a git repository as a walkable voxel city in a single self-contained three.js page (instanced chunk meshing with baked AO, procedural pixel textures in a DataArrayTexture, history time-lapse) by [@maximilianfeix](https://github.com/maximilianfeix)
+
 ## Debug/Optimization
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
