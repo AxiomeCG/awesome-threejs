@@ -104,6 +104,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [Laplace's Mini World](https://world.lapla.si/en/): Over 100 interactive three.js science models (the seasons, tides, black holes, a steam engine, neural networks) you can turn, run and take apart, in English and Chinese, free and ad-free, by [@Keith-CY](https://github.com/Keith-CY)
 
 ## Shaders
 
