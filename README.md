@@ -288,6 +288,10 @@
 
 # Demonstrations
 
+## Templates
+
+- [Walkable City](https://github.com/freak419/walkable-city) A walkable 3D portfolio town in one HTML file: procedural valley, nine building styles, phone controls. MIT.
+
 ## Water
 
 - [fft-ocean](https://github.com/jbouny/fft-ocean) Fast Fourier Transform ocean rendering for Three.js
