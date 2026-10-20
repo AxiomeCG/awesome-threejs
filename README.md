@@ -81,6 +81,8 @@
 - [Tutorial on Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
 - [TutorialSearch](https://tutorialsearch.io/?q=threejs) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
   to understand shader projection, view and model matrices (visually impactful)
+- [Houdini to Three.js: Testing glTF Compression and Instancing](https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/):
+  Measurements of compression, custom wind data and instancing for Houdini assets in three.js, by [Alicia](https://github.com/Aliciawque).
 
 ## Water
 
