@@ -165,6 +165,7 @@
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
+- [paprika3d](https://github.com/paprika3d/paprika3d): Claude Code plugin and MCP server that lets a coding agent open, look at, play and profile three.js, R3F and WebGL pages in headless Chrome on a seeded, paused clock by [Keeno](https://github.com/paprika3d)
 
 ## Scene Creation
 
