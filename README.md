@@ -180,6 +180,7 @@
   Apprentice"
   can be used to learn (no commercial usage)
 - [img2threejs](https://github.com/hoainho/img2threejs): Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+- [Inca](https://github.com/v3ai/inca): Free, open-source desktop 3D modeling, animation and rendering app with a Maya-style workflow, built on three.js and Electron. by [@v3ai](https://github.com/v3ai)
 - [Spline](https://spline.design/): A promising tool for 3D modeling, collaboratively.
 
 ## Materials
