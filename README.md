@@ -180,6 +180,7 @@
   Apprentice"
   can be used to learn (no commercial usage)
 - [img2threejs](https://github.com/hoainho/img2threejs): Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
+- [Renderivo Converter](https://www.renderivo.com/convert): Browser-only GLB to USDZ + optimized GLB conversion (weld/dedup/prune, texture resize) — files never leave the machine. by [@cekuu35](https://github.com/cekuu35)
 - [Spline](https://spline.design/): A promising tool for 3D modeling, collaboratively.
 
 ## Materials
