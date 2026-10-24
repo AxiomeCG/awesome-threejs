@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Games
+
+- [Harness Hollow](https://github.com/KrasimirKralev/harvest-hollow): Cozy co-op 3D farming game for two in the browser; the same rules engine runs in the client and on an authoritative Node/WebSocket server, by [@KrasimirKralev](https://github.com/KrasimirKralev)
+
 # Community
 
 ## Core
