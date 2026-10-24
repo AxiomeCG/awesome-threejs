@@ -165,6 +165,7 @@
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
+- [Web3D Viewer](https://github.com/userzz1145141919810-rgb/web-3d-viewer): A single-file, no-build OBJ viewer built on Three.js — drop in a ZIP of `.obj`/`.mtl`/textures and it renders in the browser, with a texture-matching log that shows how each MTL reference was resolved (exact → extension-stripped → fuzzy) so missing materials are easy to trace. by [@userzz1145141919810-rgb](https://github.com/userzz1145141919810-rgb)
 
 ## Scene Creation
 
