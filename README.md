@@ -222,6 +222,7 @@
 
 ## Animation
 - [gsap](https://greensock.com/gsap/): A mastodon for animations in CSS and for three.js too, backed up by awesome plugins like ScrollTrigger, Flip,... and mostly framework agnostic.
+- [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion): Deterministic 60 FPS motion graphics runtime, kinetic typography, and physics engine for ThreeJS and DOM film rendering with headless video export.
 
 ## Controls
 
