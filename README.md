@@ -104,6 +104,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [World Explorer](https://github.com/axieyangb/world-explorer): Open-world sandbox of the whole planet: fly, drive or walk real cities streamed from OpenStreetMap at 1:1 scale ([live demo](https://axieyangb.github.io/world-explorer/)) by [@axieyangb](https://github.com/axieyangb)
 
 ## Shaders
 
