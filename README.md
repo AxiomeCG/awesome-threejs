@@ -202,6 +202,7 @@
   
 ### Installed tools
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer): Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
+- [Novaframe Engine](https://github.com/novaframe-hq/novaframe-engine): Open-source live desktop wallpaper runtime for interactive WebGL, Three.js scenes, and dynamic shaders with smart occlusion pause by [@novaframe-hq](https://github.com/novaframe-hq).
 
 ## Sandbox
 
