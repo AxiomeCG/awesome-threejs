@@ -332,4 +332,5 @@ Or you can reach me on Twitter:
   vision resources.
 - [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 - [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 - [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
