@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Puzzles
+
+- [Cube Solver Lab](https://github.com/neichen/cube-solver): Open-source (MIT) ThreeJS twisty-puzzle player and solver for 2×2–15×15 cubes, Pyraminx, Skewb and Megaminx, with layer-drag turning, animated step-by-step solutions and a synchronized permutation-graph view. Live demo: [cube-solver.org](https://cube-solver.org/) by [@neichen](https://github.com/neichen)
+
 # Community
 
 ## Core
