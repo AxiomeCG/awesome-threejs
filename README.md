@@ -104,6 +104,7 @@
 
 - [same.energy](https://same.energy/): Visual search engine by keyword or picture (a bit like Pinterest)
 - [Pinterest](https://www.pinterest.fr/): Good source of inspiration
+- [🔨 Homecraft](https://github.com/terryHu7/homecraft): a Minecraft-style personal website you can walk through by [@terryHu7](https://github.com/terryHu7)
 
 ## Shaders
 
