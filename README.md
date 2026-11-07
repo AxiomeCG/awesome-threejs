@@ -81,6 +81,7 @@
 - [Tutorial on Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
 - [TutorialSearch](https://tutorialsearch.io/?q=threejs) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
   to understand shader projection, view and model matrices (visually impactful)
+- [Vibe Gaming Interactive Playbook](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook): A prompt that walks a coding agent through building a Three.js + Vite browser game from an empty folder, greybox first, then with GLB models, with three open-source example games by [@TripoGrowthLab](https://github.com/TripoGrowthLab)
 
 ## Water
 
