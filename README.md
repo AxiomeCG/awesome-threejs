@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Games
+
+- [LibreCorsa](https://github.com/KhazP/librecorsa): Open-source racing sim in the browser with 500 Hz 6-DOF vehicle physics, volumetric clouds, wet asphalt and WebRTC multiplayer ([live](https://librecorsa.org)), by [@KhazP](https://github.com/KhazP)
+
 # Community
 
 ## Core
