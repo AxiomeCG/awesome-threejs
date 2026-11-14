@@ -163,6 +163,8 @@
 
 ## Debug/Optimization
 
+
+- [Atlyxen Universal 3D Viewer](https://tools.atlyxenstudios.com/universal_3d_viewer/) - High-performance Three.js WebGL 3D model inspector with PBR materials, animation timeline, and polygon budget analytics.
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
 
