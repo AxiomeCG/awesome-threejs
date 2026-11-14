@@ -171,6 +171,7 @@
 - [Polygonjs](https://polygonjs.com): Node-based WebGL design tool, used for procedural geometry, particles, materials
   and animation.
 - [Three-Blender](https://github.com/ppmpreetham/three-blender): Blender based tool, to convert your Blender files directly to threeJS.
+- [Verse Engine by Ctruh](https://verse.ctruh.com): Browser-based 3D engine that turns 3D scenes into interactive web experiences you can share with a link. By [Ctruh](https://www.ctruh.com).
 
 ## 3D modeling
 
