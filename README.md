@@ -176,6 +176,7 @@
 
 - [Blender](https://www.blender.org/): Free and powerful to create your own 3D assets. A lot of export file extensions
   are available.
+- [craft3d](https://github.com/yesith0106/craft3d): Claude Code commands that build code-only Three.js models at real dimensions with working kinematics, draw them as technical illustrations (section cuts, exploded views) and film them offline. Live demos include an F1 car sized from the FIA regulations. by [@yesith0106](https://github.com/yesith0106)
 - [Houdini](https://www.sidefx.com/products/houdini/): To create procedural 3D assets. The free licence "Houdini
   Apprentice"
   can be used to learn (no commercial usage)
