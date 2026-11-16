@@ -1,4 +1,5 @@
-<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/ee5d5c72-4f6b-42d9-947e-ed483c36cf1f" /><div align="center">
+<div align="center">
+
     <br>
     <img src="assets/awesome-threejs-logo.png" alt="logo" width="80%"/>
     <h1>Awesome Threejs <a href="https://awesome.re", '_self');> <img src="https://awesome.re/badge.svg" alt="Awesome badge"/></a></h1>
