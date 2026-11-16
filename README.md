@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/ee5d5c72-4f6b-42d9-947e-ed483c36cf1f" /><div align="center">
     <br>
     <img src="assets/awesome-threejs-logo.png" alt="logo" width="80%"/>
     <h1>Awesome Threejs <a href="https://awesome.re", '_self');> <img src="https://awesome.re/badge.svg" alt="Awesome badge"/></a></h1>
@@ -164,7 +164,9 @@
 ## Debug/Optimization
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
-- [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
+- [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy)
+- [GLB Viewer](https://3dvisionart.net/glb-viewer/): Free browser-based GLB/glTF viewer and inspector. Check PBR texture maps, polygon counts, compression and extensions, and export a packed GLB or the textures. Files run locally and are never uploaded.
+
 
 ## Scene Creation
 
