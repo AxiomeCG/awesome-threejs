@@ -130,6 +130,7 @@
 
 - [Poliigon](https://www.poliigon.com/): Assets for 3D artists (Textures, Models, HDRI)
 - [Poly Haven](https://polyhaven.com/): Public CC0 3D Asset Library (Textures, Models, HDRI)
+- [SceneCrate Free 3D Scenes](https://scenecrate.com/free-3d-game-assets): Nine walkable CC0 1.0 GLB game scenes (buildings, heightfield terrain, and props) with measured two-tier budgets, JSON colliders, and runnable local Three.js examples by [@ddy4633](https://github.com/ddy4633)
 
 ## Textures
 
