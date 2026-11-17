@@ -57,6 +57,8 @@
   by [@iced_coffee_dev](https://twitter.com/iced_coffee_dev)
 - [The Book of Shaders](https://thebookofshaders.com/): A reference on the road to master shaders. And it's free.
   by [@patriciogv](https://twitter.com/patriciogv)
+- [Shader Learn](https://shader-learn.com/): Interactive GLSL lessons in English and Chinese, editable examples, and a live shader playground.
+  by [@calmound](https://github.com/calmound)
 
 # Articles
 
