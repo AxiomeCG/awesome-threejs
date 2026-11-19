@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Games
+
+- [Beyond the Mountain Gate](https://temple.rushiwowen.co/) Slow-paced temple exploration game with procedurally generated timber-frame architecture, foliage, cloth and synthesized audio, playable in the browser. Source at [temple-walk](https://github.com/bolechen/temple-walk)
+
 # Community
 
 ## Core
