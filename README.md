@@ -181,6 +181,7 @@
   can be used to learn (no commercial usage)
 - [img2threejs](https://github.com/hoainho/img2threejs): Rebuild the object in a reference image as a code-only, procedural, quality-gated Three.js model. Pure-Python stdlib tooling emits diffable TypeScript, no downloaded meshes. by [@hoainho](https://github.com/hoainho)
 - [Spline](https://spline.design/): A promising tool for 3D modeling, collaboratively.
+- [three.ws](https://github.com/nirholas/three.ws): Apache-2.0 pipeline that generates rigged, animated GLB avatars from a text prompt or a photo, plus an `<agent-3d>` web component built on ThreeJS that renders them on any page. by [@nirholas](https://github.com/nirholas)
 
 ## Materials
 
