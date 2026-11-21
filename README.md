@@ -130,6 +130,7 @@
 
 - [Poliigon](https://www.poliigon.com/): Assets for 3D artists (Textures, Models, HDRI)
 - [Poly Haven](https://polyhaven.com/): Public CC0 3D Asset Library (Textures, Models, HDRI)
+- [Shapeweld Rocketbox VRM](https://shapeweld.com/free-vrm-models/rocketbox): 115 Microsoft Rocketbox humans as VRM 0.x files (MIT) with lip sync, blink and emotions, for testing three-vrm scenes. by [@shapeweld](https://github.com/shapeweld)
 
 ## Textures
 
