@@ -299,6 +299,10 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Games
+
+- [Agent City](https://github.com/Lulu-The-Narwhal/agent-city): Open-world 3D Miami Beach baked from OpenStreetMap with three.js and React Three Fiber, with worker-built chunk geometry, a drivable car, traffic, pedestrians and retargeted character animation; it visualizes AI coding-agent sessions as gangs by [@Lulu-The-Narwhal](https://github.com/Lulu-The-Narwhal)
+
 # Community
 
 ## Core
