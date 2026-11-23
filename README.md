@@ -92,6 +92,7 @@
 - [generative artistry tutorials](https://generativeartistry.com/tutorials/): Really awesome evolutive tutorial to
   acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra)
   & [@tholman](https://github.com/tholman)
+- [dioramap](https://github.com/omlahore/dioramap): CLI that renders any real place as an isometric pixel-art diorama with three.js, from OpenStreetMap data.
 
 ## Collision detection
 
