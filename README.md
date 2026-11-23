@@ -299,6 +299,9 @@
 - [Axis-Aligned Bounding Boxes](https://github.com/mozdevs/gamedev-js-3d-aabb) AABB based collision detection
 - [Raycast based Collision detection](http://stemkoski.github.io/Three.js/Collision-Detection.html)
 
+## Heritage & Interactive Maps
+- [Red-Army-Street](https://github.com/Leizhidong-creator/Red-Army-Street): Interactive 3D heritage map of Hadapu's Red Army Street, React + Three.js, live demo on GitHub Pages by [@Leizhidong-creator](https://github.com/Leizhidong-creator)
+
 # Community
 
 ## Core
