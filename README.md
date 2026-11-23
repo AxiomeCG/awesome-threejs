@@ -293,6 +293,7 @@
 - [fft-ocean](https://github.com/jbouny/fft-ocean) Fast Fourier Transform ocean rendering for Three.js
 - [skunami.js](https://github.com/skeelogy/skunami.js/) Marvellous project with realistic water interaction
 - [Shallow water](https://vuoriov4.github.io/webgl-water-demo/) Demo project that shows water ripple effect
+- [Out to Sea](https://github.com/cwdx/out-to-sea) Mac and web break app with a GPU-rendered sea and a weather-driven sky
 
 ## Collision detection
 
