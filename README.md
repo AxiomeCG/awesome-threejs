@@ -81,6 +81,7 @@
 - [Tutorial on Matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/): A limpid tutorial
 - [TutorialSearch](https://tutorialsearch.io/?q=threejs) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
   to understand shader projection, view and model matrices (visually impactful)
+- [You can just make 3D](https://good.vibes.diy/blog/you-can-just-make-3d): A step-by-step three.js tutorial where four tiny live apps build up to a city at dusk you can orbit, reseed and remix, by [@VibesDIY](https://github.com/VibesDIY)
 
 ## Water
 
