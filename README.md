@@ -74,6 +74,9 @@
 
 ## Tutorials
 
+- [A Procedural Roof Mesh for WebGL](https://gist.github.com/lhq1363511234/fa7deee0b07eb516ddd03f4fd6b8cce1#file-inspace-roof-webgl-md): Curved roof geometry,
+  vertex normals and tiled UVs, with a Three.js adapter and a live courtyard demo.
+  by [@lhq1363511234](https://github.com/lhq1363511234).
 - [Surface Sampling in Three.js](https://tympanus.net/codrops/2021/08/31/surface-sampling-in-three-js/): A comprehensive
   article about MeshSurfaceSampler
 - [How to Create a Fake 3D Image Effect with WebGL](https://tympanus.net/codrops/2019/02/20/how-to-create-a-fake-3d-image-effect-with-webgl/):
