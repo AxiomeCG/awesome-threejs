@@ -163,6 +163,7 @@
 
 ## Debug/Optimization
 
+- [GLB Texture Compressor](https://mint.gg/glb-texture-compressor): Free in-browser tool to resize the textures of a GLB file and re-encode them as WebP/AVIF to cut file size before loading it in ThreeJS. No signup, files stay on your machine. by [Mint](https://mint.gg)
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
 
