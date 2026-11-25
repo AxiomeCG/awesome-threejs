@@ -93,6 +93,10 @@
   acquire some knowledge on Generative Art by [@rumyra](https://github.com/rumyra)
   & [@tholman](https://github.com/tholman)
 
+## Venues & Architecture
+
+- [StagePeek](https://github.com/Hinstein/StagePeek): Interactive 2D seating charts and 3D concert venue sightlines across 201 global arenas ([live demo](https://stagepeek.live)) by [@Hinstein](https://github.com/Hinstein)
+
 ## Collision detection
 
 - [Bounding volume collision detection](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection/Bounding_volume_collision_detection_with_THREE.js)
