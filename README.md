@@ -201,6 +201,7 @@
 - [Shader Park](https://shaderpark.com/): A JavaScript library for creating interactive procedural 2D and 3D shaders. Helpful for raymarching shaders (the raymarcher is already built-in, SDFs and boolean operation between them already available). Works both in p5js style and GLSL. ([to contribute](https://github.com/shader-park/shader-park-core)) by [@shader-park](https://github.com/shader-park)
   
 ### Installed tools
+- [Wallrus](https://github.com/joexk1/wallrus): Open-source Rust desktop wallpaper engine that runs interactive Three.js `.js` modules and `.html` scenes natively behind macOS and Linux desktop icons with 3D cursor parallax and Spotlight camera pinning.
 - [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer): Console-based GLSL Sandbox for 2D/3D shaders by [@patriciogv](https://twitter.com/patriciogv). Battle-tested by its creator, it enables to build a creative pipeline agnostic to the target platform and to iterate very fast and with less frictions for making a draft of your shaders ideas. A must-have in your toolkit.
 
 ## Sandbox
