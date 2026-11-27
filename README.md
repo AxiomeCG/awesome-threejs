@@ -288,6 +288,10 @@
 
 # Demonstrations
 
+## Particles & Interaction
+
+- [Christmas Tree Gesture](https://github.com/2766792840/christmas-tree-gesture): A 26k-particle Three.js Christmas tree driven by hand gestures recognized with MediaPipe, with six morphing shapes, a 3D fingertip particle brush and pinchable floating photos by [@2766792840](https://github.com/2766792840)
+
 ## Water
 
 - [fft-ocean](https://github.com/jbouny/fft-ocean) Fast Fourier Transform ocean rendering for Three.js
