@@ -165,6 +165,7 @@
 
 - [GLTF Report](https://gltf.report): Web app to diagnose, optimize your gltf files. Nice inspector that even support BASIS/KTX2 textures. by [@donmccurdy](https://github.com/donmccurdy)
 - [gltf-transform](https://gltf-transform.dev/): CLI to run on your GLTF file for a lot of different optimizations (welding, pruning, draco compression...). It also enables the conversion of textures into [KTX2](https://github.com/KhronosGroup/KTX-Software) for optimizing textures on the GPU by [@donmccurdy](https://github.com/donmccurdy) 
+- [Low Poly 3D GLB Tools](https://lowpoly3d.org/tools): Free local browser tools to inspect, reduce polygons, compress with Meshopt, generate LODs, fix pivots, and convert STL/FBX/OBJ to GLB. by [@GenAIStack](https://github.com/GenAIStack)
 
 ## Scene Creation
 
